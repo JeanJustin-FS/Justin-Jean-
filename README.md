@@ -1,2 +1,2 @@
-# Justin-Jean-
+# Justin-Jean
 My personal repository.
